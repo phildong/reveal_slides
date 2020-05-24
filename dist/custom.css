@@ -1,0 +1,6 @@
+.multicol{
+    display: flex;
+}
+.col{
+    flex: 1;
+}
