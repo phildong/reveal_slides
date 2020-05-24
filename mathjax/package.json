@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      "mathjax@2",
+      "/home/bendog/Documents/git/reveal_slides"
+    ]
+  ],
+  "_from": "mathjax@>=2.0.0 <3.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "mathjax@2.7.8",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/mathjax",
+  "_nodeVersion": "13.12.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/mathjax_2.7.8_1586374411575_0.7199851664414938"
+  },
+  "_npmUser": {
+    "email": "manager@mathjax.org",
+    "name": "mjadmin"
+  },
+  "_npmVersion": "6.14.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "mathjax",
+    "raw": "mathjax@2",
+    "rawSpec": "2",
+    "scope": null,
+    "spec": ">=2.0.0 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/mathjax/-/mathjax-2.7.8.tgz",
+  "_shasum": "c883f483c4f4abe525b7a3dea16abecf663f2a6a",
+  "_shrinkwrap": null,
+  "_spec": "mathjax@2",
+  "_where": "/home/bendog/Documents/git/reveal_slides",
+  "bugs": {
+    "url": "http://github.com/mathjax/MathJax/issues"
+  },
+  "dependencies": {},
+  "description": "Beautiful math in all browsers. MathJax is an open-source JavaScript display engine for LaTeX, MathML, and AsciiMath notation that works in all browsers.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 3341,
+    "integrity": "sha512-n4xZJ+cw7o01YOSVhxxjyOmibqBPCi+XTDof4siq78QWMx7Fxjzgb/mxMUEElMzTDodMV7ENIMsjREOSldOQPw==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJejicMCRA9TVsSAnZWagAAJaAP/2Nh57pgn2nsqGxy1F5z\nnsilwrPfAnYY9WE39ydI3RjodKqUv/iTg7szn+cjJpM6bUY+Y3O4Dv2K5B29\nWGhE+cBTEUu1fEonsBGNplbD6P7ANkKW8YA1jksxOf6lPp2IY4g/ooNS5ONQ\n3EYGCNhtto7ceh6+tYihzbEqkTIhimFrUjFMsQI7B1P4YO/5i59huWtQo6e5\nJ2Be5XdV+FQs2vAQoPl+eSOkKR8jMhmjvSRcJ+55sIAkBSIR8zT/UVpKBg85\noGB+aZ68BF2aSB2NOsgKlTb+TPbro/lW8MoJXVbECH7y6XQqxHGLAHe7CSbX\nJ8I9HeMDPYbneBv6fEcaYfJlNmpO8+cQDupxIWXWEJLqDogTgmgf5N5VrKQA\nZXlUYNg0UE5xry9aIEEyCjlnU3+njENn/65n/aMUjmNDHf+bWz1ARrSlnkDf\n6oThL6lgz+o6rDHwhOClTiMqm+pMSXLDG+4O56+imJITnrhaO8FvrB8f3fy0\nhHZ91y4FxMqD4jrOgZxnWQ+OhHAZOoZKDoDdh4eeEaosCtGs7/jDPoZtUGpP\nYCFLzf/Qg1hTqbIvMYXP0poAo1KIhw6jYYEnXZ0fe6LvHYTTUdsg0euxMXI6\np/vITRRJLERp8bSWQY9YzEOMQl9odWRgzh3RxDgbVBZr3KrKtlSHqkmfY93+\nQruY\r\n=Bnf4\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "c883f483c4f4abe525b7a3dea16abecf663f2a6a",
+    "tarball": "https://registry.npmjs.org/mathjax/-/mathjax-2.7.8.tgz",
+    "unpackedSize": 60587803
+  },
+  "gitHead": "85e47d7801b2dea6c15878ac7b3dcf62cfd659b5",
+  "homepage": "https://github.com/mathjax/MathJax#readme",
+  "keywords": [
+    "asciimath",
+    "browser",
+    "browser-only",
+    "latex",
+    "math",
+    "mathml",
+    "svg",
+    "tex"
+  ],
+  "license": "Apache-2.0",
+  "main": "./unpacked/MathJax.js",
+  "maintainers": [
+    {
+      "name": "mjadmin",
+      "email": "manager@mathjax.org"
+    }
+  ],
+  "name": "mathjax",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mathjax/MathJax.git"
+  },
+  "scripts": {
+    "test": "echo 'No tests here!'"
+  },
+  "version": "2.7.8"
+}
